@@ -1,0 +1,26 @@
+body {
+    background-color: #c8e6f8;
+}
+h1{
+    text-align: center;
+    color: rgb(24, 8, 170);
+    
+}
+body{
+    justify-content: center;
+
+}
+form{
+    background-color: rgb(227, 253, 253);
+    margin: auto;
+    width: 90%;
+    max-width: 1000px; 
+    padding: 4.5em 3em;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgba(255,255,255,0.8);
+     
+}
+
+
+
+
